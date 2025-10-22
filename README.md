@@ -1,8 +1,8 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date:06/05/2025
-## Name: ASHOK KUMAR PREEETHAM KUMAR
-## Register No:212224040032
+# Date:22/10/2025
+## Name: Anwarsha E.M
+## Register No:2305001002
 
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
