@@ -1,6 +1,6 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date:22/10/2025
+# Date:06/10/2025
 ## Name: Anwarsha E.M
 ## Register No:2305001002
 
